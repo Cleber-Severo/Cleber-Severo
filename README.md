@@ -10,8 +10,8 @@ I'm a Front-End developer working constantly on getting a bit better every day. 
 ### Profile:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cleber-severo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height=180 width=500 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-severo&theme=radical&layout=compact" height=180 width=500em />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cleber-severo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height=180 width=40% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-severo&theme=radical&layout=compact" height=180 width=40% />
 </div>
 
 
