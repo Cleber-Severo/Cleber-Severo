@@ -6,6 +6,7 @@
 
 I'm a Front-End developer working constantly on getting a bit better every day. I also have some cool projects posted here, check my repositories bellow!! 
 
+I'm open to suggestions and feedbacks.
 
 ### Profile:
 
