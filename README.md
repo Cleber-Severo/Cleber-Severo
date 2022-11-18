@@ -11,7 +11,7 @@ I'm open to suggestions and feedbacks.
 ### Profile:
 
 
-<center >[![GitHub Streak](https://streak-stats.demolab.com?user=Cleber-Severo&theme=radical)](https://git.io/streak-stats)</center>
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Cleber-Severo&theme=radical)](https://git.io/streak-stats)</div>
 
 
 <div align="center">
