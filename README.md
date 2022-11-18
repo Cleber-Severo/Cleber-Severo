@@ -28,10 +28,8 @@ I'm open to suggestions and feedbacks.
 
 
 ### Info
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cleber-severo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height=200 width=45% style="margin-right: 20px" style="display: block" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-severo&theme=radical&layout=compact" height=200 width=45% />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cleber-severo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-severo&layout=compact&langs_count=7&theme=radical"/>
 
 ---
 
