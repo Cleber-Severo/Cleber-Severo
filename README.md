@@ -11,8 +11,9 @@ I'm open to suggestions and feedbacks.
 ### Profile:
 
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Cleber-Severo&theme=radical)](https://git.io/streak-stats)</div>
-
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cleber-Severo&theme=radical)](https://git.io/streak-stats) 
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cleber-severo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height=200 width=45% style="margin-right: 20px"  />
