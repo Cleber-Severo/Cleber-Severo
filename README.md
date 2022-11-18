@@ -14,6 +14,8 @@ I'm open to suggestions and feedbacks.
 
 <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com?user=Cleber-severo&theme=radical&border_radius=5&locale=pt-br" alt="mosaicoJorge" /></div>
 
+---
+
 ### My techs
  <div style="display: inline_block"><br>
   <img align="center" alt="Jorge-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +27,7 @@ I'm open to suggestions and feedbacks.
 <br>
 
 ---
-
+### Info
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cleber-severo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height=200 width=45% style="margin-right: 20px"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-severo&theme=radical&layout=compact" height=200 width=45% />
