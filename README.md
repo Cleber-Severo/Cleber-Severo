@@ -8,6 +8,8 @@ I'm a Front-End developer working constantly on getting a bit better every day. 
 
 I'm open to suggestions and feedbacks.
 
+---
+
 ### Profile:
 
 <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com?user=Cleber-severo&theme=radical&border_radius=5&locale=pt-br" alt="mosaicoJorge" /></div>
@@ -29,7 +31,7 @@ I'm open to suggestions and feedbacks.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-severo&theme=radical&layout=compact" height=200 width=45% />
 </div>
 
-
+---
 
 ### Contact me 
 <a href="mailto:clebersevero1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/cleber-severo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
