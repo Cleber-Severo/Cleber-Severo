@@ -22,6 +22,7 @@ I'm open to suggestions and feedbacks.
 
 <br>
 
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cleber-severo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height=200 width=45% style="margin-right: 20px"  />
