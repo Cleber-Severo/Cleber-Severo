@@ -25,7 +25,7 @@ I'm open to suggestions and feedbacks.
 </div>
 <br>
 
-### Techs I'm learning
+### Techs I'm currently learning
 
 <div style="display: inline_block">
  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
