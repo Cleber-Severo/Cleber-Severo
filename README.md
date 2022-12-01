@@ -12,7 +12,7 @@ I'm open to suggestions and feedbacks.
 
 ### Profile:
 
-<div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com?user=Cleber-severo&theme=radical&border_radius=5&locale=en" alt="mosaicoJorge" /></div>
+<div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com?user=Cleber-severo&theme=radical&border_radius=5&locale=pt-br" alt="mosaicoJorge" /></div>
 
 
 
