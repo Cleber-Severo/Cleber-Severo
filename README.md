@@ -2,7 +2,7 @@
 
  # Front-end Developer
 
- ### My name is Cléber and Welcome to my GitHub profile! 👋
+ ### My name is Cléber and Welcome to my GitHub! 👋
 
 I'm a Front-End developer working constantly on getting a bit better every day. I also have some cool projects posted here, check my repositories bellow!! 
 
