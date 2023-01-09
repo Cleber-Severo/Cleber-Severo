@@ -1,6 +1,6 @@
 ﻿
 
- # Front-end Developer | Software engineer
+ # Front-end Developer - Software engineer
 
  ### My name is Cléber, Welcome to my GitHub! 👋
 
