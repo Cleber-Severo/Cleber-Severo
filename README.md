@@ -43,6 +43,6 @@ I'm open to suggestions and feedbacks, contact me via my social links.
 ### Info
 
  <img style="display: block" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cleber-severo&&show_icons=true&theme=dark"/>
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-severo"/>
+ <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cleber-severo&layout=compact&langs_count=7&theme=aura"/>
 
   
