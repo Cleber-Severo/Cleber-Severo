@@ -12,7 +12,9 @@ I'm open to suggestions and feedbacks, contact me via my social links.
 
 ### Profile:
 
-<div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com?user=Cleber-severo&theme=radical&border_radius=5&locale=en" alt="mosaicoJorge" /></div>
+
+ <img style="display: block" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cleber-severo&&show_icons=true&theme=radical"/>
+ <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cleber-severo&layout=compact&langs_count=7&theme=radical"/>
 
 
 
