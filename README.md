@@ -4,7 +4,7 @@
 
  ### My name is Cléber, Welcome to my GitHub!👋
 
-Front-End developer working constantly on getting better every single day. I also have some cool projects avaliable here, check my repositories bellow!! 
+Software Engeneer / Front-End developer working constantly on getting better every single day. I also have some cool projects avaliable here, check my repositories bellow!! 
 
 I'm open to suggestions and feedbacks, contact me via my social links.
 
