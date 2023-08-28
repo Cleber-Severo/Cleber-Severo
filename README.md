@@ -37,8 +37,8 @@ I'm open to suggestions and feedbacks, contact me via my social links.
 
 <div style="display: inline_block">
 <img align="center" alt="jQuery" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="jQuery" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 <img align="center" alt="Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="jQuery" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
  
