@@ -29,6 +29,8 @@ Software Engeneer / Front-End developer working constantly on getting better eve
   <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
 </div>
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,scss,bootstrap,css,html,git)](https://skillicons.dev)
+
 <br>
 
 ### Techs I'm learning
