@@ -6,8 +6,6 @@
 
 Software Engeneer / Front-End developer working constantly on getting better every single day. I also have some cool projects avaliable here, check my repositories bellow!! 
 
-Contact me.
-
 ---
 
 ### Profile:
