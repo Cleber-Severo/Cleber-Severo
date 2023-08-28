@@ -14,7 +14,7 @@ Software Engeneer / Front-End developer working constantly on getting better eve
  <img style="display: block" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cleber-severo&&show_icons=true&theme=radical"/>
  <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cleber-severo&layout=compact&langs_count=7&theme=radical"/>
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### My techs
  <div style="display: inline_block">
@@ -29,7 +29,6 @@ Software Engeneer / Front-End developer working constantly on getting better eve
   <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
 </div>
-[(https://skillicons.dev/icons?i=react,js,ts,scss,bootstrap,css,html,git)](https://skillicons.dev)
 <br>
 
 ### Techs I'm learning
