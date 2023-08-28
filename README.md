@@ -30,7 +30,6 @@ Software Engeneer / Front-End developer working constantly on getting better eve
   
 </div>
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,scss,bootstrap,css,html,git)](https://skillicons.dev)
-
 <br>
 
 ### Techs I'm learning
