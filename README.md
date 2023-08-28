@@ -21,7 +21,7 @@ Software Engeneer / Front-End developer working constantly on getting better eve
 <br>
 
 ### Techs I'm learning
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,jquery,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,mysql)](https://skillicons.dev)
  <br>
 
 
