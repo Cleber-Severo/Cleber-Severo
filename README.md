@@ -14,7 +14,7 @@ Software Engeneer / Front-End developer working constantly on getting better eve
  <img style="display: block" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cleber-severo&&show_icons=true&theme=radical"/>
  <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cleber-severo&layout=compact&langs_count=7&theme=radical"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,sass,materialui,bootstrap,html,css,git)](https://skillicons.dev)
 
 ### My techs
  <div style="display: inline_block">
