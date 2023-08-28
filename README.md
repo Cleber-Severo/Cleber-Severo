@@ -14,9 +14,10 @@ Software Engeneer / Front-End developer working constantly on getting better eve
  <img style="display: block" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cleber-severo&&show_icons=true&theme=radical"/>
  <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cleber-severo&layout=compact&langs_count=7&theme=radical"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,sass,materialui,bootstrap,html,css,git)](https://skillicons.dev)
+
 
 ### My techs
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,sass,materialui,bootstrap,html,css,git)](https://skillicons.dev)
  <div style="display: inline_block">
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,7 +33,7 @@ Software Engeneer / Front-End developer working constantly on getting better eve
 <br>
 
 ### Techs I'm learning
-
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,jquery,mysql)](https://skillicons.dev)
 <div style="display: inline_block">
 <img align="center" alt="jQuery" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
