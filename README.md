@@ -17,11 +17,11 @@ Software Engeneer / Front-End developer working constantly on getting better eve
 
 
 ### My techs
-[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,sass,materialui,bootstrap,html,css,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,sass,materialui,bootstrap,html,css,git,redux,nodejs)](https://skillicons.dev) 
 <br>
 
 ### Techs I'm learning
-[![My Skills](https://skillicons.dev/icons?i=next,redux,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,jest)](https://skillicons.dev)
  <br>
 
 
