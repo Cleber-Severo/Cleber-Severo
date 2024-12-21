@@ -19,8 +19,12 @@ Software Engeneer / Front-End developer working constantly on getting better eve
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,materialui,sass,bootstrap)](https://skillicons.dev) 
 <br>
 ### Back End
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,ts,mysql,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,ts,mysql)](https://skillicons.dev) 
 <br>
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) 
+
 
 ### Techs I'm learning
 [![My Skills](https://skillicons.dev/icons?i=next,nest,jest,docker)](https://skillicons.dev)
