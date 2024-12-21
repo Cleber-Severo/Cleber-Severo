@@ -16,7 +16,7 @@ Software Engeneer / Front-End developer working constantly on getting better eve
 
 ### My techs
 ### Front End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,bootstrap,materialui,tailwind)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,materialui,sass,bootstrap)](https://skillicons.dev) 
 <br>
 ### Back End
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,ts,mysql,git,github)](https://skillicons.dev) 
