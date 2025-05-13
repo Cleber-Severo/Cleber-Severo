@@ -19,7 +19,7 @@ Here you’ll find some of the projects that reflect my growth, skills, and enth
 
 ---
 ### 🎨 Front End
-[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,tailwind,materialui,sass,bootstrap)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,tailwind,materialui,sass,bootstrap,styledcomponents)](https://skillicons.dev) 
 <br>
 ### ⚙️ Back End
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres)](https://skillicons.dev) 
