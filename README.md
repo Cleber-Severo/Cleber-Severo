@@ -1,15 +1,18 @@
 ﻿
 
- # Software engineer
+ # 💻 Cléber Severo
 
- ### My name is Cléber, Welcome to my GitHub!👋
+ ### Fullstack Developer • Front-End Specialist • Problem Solver
 
-Software Engeneer / Front-End developer working constantly on getting better every single day. I also have some cool projects avaliable here, check my repositories bellow!! 
+Welcome to my GitHub! I’m a fullstack software developer with a strong focus on front-end technologies. Passionate about building efficient solutions and user-friendly interfaces that truly make an impact.
 
+Here you’ll find some of the projects that reflect my growth, skills, and enthusiasm for technology.
 
-### Contact me 
-<a href="https://www.linkedin.com/in/cleber-severo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:clebersevero1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 🌐 Portfolio & Contact
+
+<a href="https://cleber-severo-my-portfolio.vercel.app/#hero" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%236f42c1?style=for-the-badge&logo=personal-portfolio&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/cleber-severo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:clebersevero1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
 
 ---
