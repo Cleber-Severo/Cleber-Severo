@@ -35,7 +35,8 @@ Here you’ll find some of the projects that reflect my growth, skills, and enth
 
 ### Profile:
 
- <img style="display: block" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cleber-severo&&show_icons=true&theme=radical"/>
- <img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cleber-severo&layout=compact&langs_count=7&theme=radical"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleber-Severo&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-Severo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
